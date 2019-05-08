@@ -1,6 +1,5 @@
 package com.zzq.kafka_es.kafka;
 
-import com.zzq.kafka_es.Util;
 import com.zzq.kafka_es.bean.Person;
 import com.zzq.kafka_es.elasticsearch.JsonUtils;
 import org.apache.kafka.clients.producer.KafkaProducer;

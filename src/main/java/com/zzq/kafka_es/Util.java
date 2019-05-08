@@ -7,8 +7,6 @@ public class Util {
      * @Description 对象转字节数组
      * @param obj Object对象
      * @return byte[] 字节数组
-     * @author SUNBIN
-     * @date 2017年9月8日
      */
     public static byte[] ObjectToBytes(Object obj){
         byte[] bytes = null;
@@ -41,8 +39,6 @@ public class Util {
      * @Description 字节数组转对象
      * @param bytes 字节数组
      * @return Object Object对象
-     * @author SUNBIN
-     * @date 2017年9月8日
      */
     public static Object BytesToObject(byte[] bytes){
         Object obj = null;
